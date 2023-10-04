@@ -1,0 +1,53 @@
+<!DOCUTYPE html>
+<html lang= "en"
+ <head>
+   <meta charset= "UTF-8">
+   <title>Things To Do</title>
+   <link rel="stylesheet" href="css/style.css">
+ </head>
+ <body>
+ <header>
+   <h1>Things To Do<h1>
+   <nav> 
+      <a href="index.html">The State of Maryland</a> &nbsp
+      <a href="index.html">Maryland Cities</a> &nbsp
+      <a href="index.html">Places To Visit</a> &nbsp
+   </nav>
+ </header>
+     <main>
+     <section> 
+         <p>Maryland is known for fishing and it produces the most blue crabs in the United States so if you like fishing put it on your to do list when you visit Maryland. If you are into museums , its definitely worth the drive to Washington DC which is really close to Maryland. In Annapolis a tour in the Capital building is a must. The Capital Building in Annapolis is one of the oldest in the country. There's also the Naval Academy in Annapolis. if you are into sports check out the Orioles games. A summary of things you can do in Maryland is in the table below.</p> 
+        <img src="https://unsplash.com/photos/YV4dPipE91U.jpg" alt="Maryland State"> <br>
+     <table>
+     <caption>Things To Do In Maryland</caption>
+        <tr>
+           <th>City</th> 
+           <th>Activity</th>
+           <th>Season</th>
+        </tr>
+           <td>Baltimore Harbor</td>
+           <td>Museums & Cruises, Aquarium</td>
+           <td>All seasons</td>
+        </tr>
+        <tr>
+           <td>Ocean City</td>
+           <td>Beach,Surfing, jet skiing, kayaking</td>
+           <td> Summer preferably, Fall, Spring</td>
+        </tr>
+        <tr>
+           <td>Harper's Ferry</td>
+           <td>Hiking, Drink at Harper's Ferry Brewing, Walk the C &O canal</td>
+           <td>All seasons</td>
+        </tr>
+        <tr>
+           <td>Annapolis</td>
+           <td>Naval Academy, Maritime Museum and State House visit</td>
+           <td>All seasons</td>
+           </tr>
+   </table> <br>
+   <aside>There are plenty other things to do in Maryland. The above mentioned are commonly recommended.</aside>
+   </section>
+   </main>
+   </body>
+       
+            
